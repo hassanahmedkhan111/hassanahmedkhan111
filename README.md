@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Hassan Ahmed Khan
+# Hi 👋 I'm Hassan Ahmed Khan
 
 🚀 Fullstack Engineer | MEAN & MERN | React Native | Flutter  
 
